@@ -1,0 +1,14 @@
+## Necessary libraries
+
+tkinter
+sys
+keyboard
+PIL
+time
+os
+serial
+numpy
+subprocess
+pyautogui
+copy
+winsound
